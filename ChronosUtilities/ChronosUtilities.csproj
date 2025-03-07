@@ -6,9 +6,17 @@
 		<Nullable>enable</Nullable>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<Description>ChronosUtilities is a .NET library for handling date and time operations, including date calculations, time zone conversions, and business day calculations.</Description>
+		<PackageProjectUrl>https://github.com/shawnfeds/ChronosUtilities.git</PackageProjectUrl>
+		<RepositoryType>git</RepositoryType>
+		<RepositoryUrl>https://github.com/shawnfeds/ChronosUtilities.git</RepositoryUrl>
+		<Authors>Shawn Fernandes</Authors>
+		<PackageCopyright>© 2025 ChronosUtilities</PackageCopyright>
+		<PackageTags>dates;time;timezone;businessday</PackageTags>
 	</PropertyGroup>
 
 	<ItemGroup>
+		<!-- Other existing items -->
 		<None Include="LICENSE" Pack="true" PackagePath="" />
 		<None Include="README.md" Pack="true" PackagePath="" />
 	</ItemGroup>
